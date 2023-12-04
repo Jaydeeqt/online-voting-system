@@ -1,7 +1,7 @@
 # online-voting-system
 is an online voting technique. In this system, authorized voters can give his\her vote online without going to any physical polling station. A database is maintained in which all the names of voters with complete information are stored.
 
-# Features of the Online Voting Management System 
+# Features of the Online Voting System 
 - responsive home page
 - Category list
   1. Add category
@@ -20,7 +20,7 @@ is an online voting technique. In this system, authorized voters can give his\he
 - Users can view voting poll
 - Easy management
 
-# How to run the online voting management system
+# How to run the online voting system
 - Download the codes
 - Then extract the code folder in your pc.
 - Copy the extracted folder and paste it in the /xampp/htdocs.
